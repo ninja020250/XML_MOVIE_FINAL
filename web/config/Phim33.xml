@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CrawlerConfig host="phim33"
+               webURL="https://phim33.com" 
+               XpathLinkEachItem="//ul[@class='list-film']/li[contains(@class,'film-item ')]/a"
+               xpathNameFilm="//*[@class='film-info']/h1/text()" 
+               xPathMainCategory="//*[@id='main-menu']/div/ul/li[4]/a/@href" 
+               xpathNameFilmEnglish="//*[@class='film-info']/h2/text()" 
+               xpathPagination="//*[@class='pagination']/ul/li" 
+               xpathDescription="//*[@class='film-content']" 
+               xpathGroupInfo="//*[@class='film-info']/ul/li" 
+               xpathRate=".//div[@id='div_average']" 
+               xpathView="./span" 
+               xpathYear="./span" 
+               xpathDuration="./span" 
+               xpathNation="./a" 
+               xpathKind="./a" 
+               xpathDirector="./a"
+               xpathActor="./a"
+               xpathImgURL="//*[@class='film-info']/div[@class='poster']//img/@src" 
+               xmlns="http://www.CrawlerConfig.com">
+    <actorKeyword>diễn viên</actorKeyword>
+    <directorKeyword>đạo diễn</directorKeyword>
+    <kindKeyword>thể loại</kindKeyword>
+    <nationKeyword>quốc gia</nationKeyword>
+    <durationKeyword>thời lượng</durationKeyword>
+    <yearKeyword>năm xuất bản</yearKeyword>
+    <viewKeyword>lượt xem</viewKeyword>
+</CrawlerConfig>

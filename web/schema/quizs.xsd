@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.quizs.com"
+           xmlns="http://www.quizs.com"
+           xmlns:target = "http://www.quiz.com"
+           elementFormDefault="qualified">
+  
+    <xs:import namespace="http://www.quiz.com" schemaLocation="quiz.xsd" />
+    
+    <xs:element name="listQuiz">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element  ref="target:Quiz" maxOccurs = "unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,10 @@
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKrfIMFkSaoTSqKmC+BrghK0CpDHc0MuVzmMHin8LIORhpXbped+iYhSnZurWnEO0zcKcVIrzp026LVc5pMB9bUCAwEAAQ==_FXMAtlUPRW3weN+jrwuj1NFHvj5D8vc8iUWtuFnB/CvfYtRh3tgmYqHcg+Y5nvCua2IjzkKuGWQij3IGCnM5sw=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type='text/javascript'>try{document.cookie = 'isframesetenabled=1; path=/;';}catch(exception){}</script><script type="text/javascript" src="http://d3ujb2t8x8alxd.cloudfront.net/rmgjsc/zcFilters.js?1"></script><script type='text/javascript'>try{document.cookie = 'browser_width='+window.innerWidth || document.body.clientWidth;document.cookie = 'browser_height='+window.innerHeight  || document.body.clientHeight;}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www.quizs.com/?ga=G4TjWfZSrC0dBWt43gsEgUbfoNLuTUktyslf3ZIIXVxGYF0cAPJTuo%2BM0K1MOwBYxxR0VmctavpqwLSRhOz8sjOUlzPG2RmmXA%2FU7BrhwGCvZ7R8Y7xj%2FNKzqe%2BkG7Tso%2BzQUFh9Q1XYck9UMjO4E7oXn6%2Fp%2BBhl1N05ETYL2KY%3D&gerf=9FSH1DYZOgy6uMowNO2UU6Y9ozrKo1rhESp%2FVxgNQoA%3D&guro=e5VoRxZu5ZyGSyUuvkQkILmjlVNo8%2FVM78oqfhSY%2BFfMCEdukHwQwLnrkZkl50J8&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www.quizs.com/rg-erdr.php?_rpo=t nxGRjzr&_rdm=iii.k3WC9.JvV&p=5f95%7C%40%7C5f95%7C%40%7Ciii.k3WC9.JvV%7C%40%7CfB%7C%40%7C%7C%40%7CTTHzEEHzH%7C%40%7Czbb%7C%40%7C39%7C%40%7C19c4NW4cGzTZbAEtAFAZHGZT%7C%40%7Ct+nG7GZjL%7C%40%7Ct+7zFZKFH&ga=G4TjWfZSrC0dBWt43gsEgUbfoNLuTUktyslf3ZIIXVxGYF0cAPJTuo%2BM0K1MOwBYxxR0VmctavpqwLSRhOz8sjOUlzPG2RmmXA%2FU7BrhwGCvZ7R8Y7xj%2FNKzqe%2BkG7Tso%2BzQUFh9Q1XYck9UMjO4E7oXn6%2Fp%2BBhl1N05ETYL2KY%3D&t=nfrm">Click here to proceed</a>.
+	</body>
+</noframes></html>

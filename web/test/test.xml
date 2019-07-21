@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:listFilm xmlns="http://www.film.com" xmlns:ns2="http://www.films.com">
+    <Film>
+        <filmID>LifeOvertakesMe(2019)2019</filmID>
+        <time>2019</time>
+        <duration>39</duration>
+        <filmName>Life Overtakes Me (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>8</rate>
+        <kindOfFilms>tài liệu</kindOfFilms>
+        <directors>kristine samuelson</directors>
+        <directors>john haptas</directors>
+        <nation>Châu Âu</nation>
+        <imageURL>imgs/products/hoi-chung-la-2019.jpg</imageURL>
+        <description>Hội Chứng Lạ 2019Bộ phim ngắn, tìm hiểu về Hội chứng Resignation mà hàng trăm trẻ em tị nạn tại Thụy Điển mắc phải.</description>
+    </Film>
+    <Film>
+        <filmID>Krasue:InhumanKiss(2019)2019</filmID>
+        <time>2019</time>
+        <duration>100</duration>
+        <filmName>Krasue: Inhuman Kiss (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9</rate>
+        <kindOfFilms>tâm lý - tình cảm</kindOfFilms>
+        <kindOfFilms>kinh dị</kindOfFilms>
+        <kindOfFilms>truyền hình</kindOfFilms>
+        <directors>sitisiri mongkolsiri</directors>
+        <actors>Phantira Pipityakorn</actors>
+        <actors>Oabnithi Wiwattanawarang</actors>
+        <actors>Sapol Assawamunkong</actors>
+        <nation>Thái Lan</nation>
+        <imageURL>imgs/products/nu-hon-ma-quai-2019.jpg</imageURL>
+        <description>Nụ Hôn Ma Quái 2019Krasue: Inhuman kiss - Nụ hôn ma quái là câu chuyện ở một ngôi làng xa ở Thái, cô gái trẻ Sai mắc lời nguyền của Krasue – Ma lai rút ruột. Hàng đêm, đầu cô tách rời thân thể để săn lùng thú vật. Dân làng sợ hãi khi gia súc của mình chết hàng loạt và bắt đầu lùng bắt Krasue. Tuy nhiên, Noi - người bạn thân của Sai - vẫn sát cánh cùng cô bất chấp biết sự thật.</description>
+    </Film>
+    <Film>
+        <filmID>InnocentWitness(2019)2019</filmID>
+        <time>2019</time>
+        <duration>129</duration>
+        <filmName>Innocent Witness (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9</rate>
+        <kindOfFilms>tâm lý - tình cảm</kindOfFilms>
+        <kindOfFilms>truyền hình</kindOfFilms>
+        <directors>lee han</directors>
+        <actors>Jung Woo-Sung</actors>
+        <actors>Kim Hyang-Gi</actors>
+        <actors>Lee Kyu-Hyung</actors>
+        <actors>Jang Young-Nam</actors>
+        <actors>Park Geun-Hyung</actors>
+        <nation>Hàn Quốc</nation>
+        <imageURL>imgs/products/chung-nhan-hoan-hao-2019.jpg</imageURL>
+        <description>Chứng Nhân Hoàn Hảo 2019Vụ án giết người với nghi vấn hung thủ là bà giúp việc hiền lành. Nhân chứng duy nhất có thể minh oan là một cô bé tự kỷ ...</description>
+    </Film>
+    <Film>
+        <filmID>TheUpside(2019)2019</filmID>
+        <time>2019</time>
+        <duration>126</duration>
+        <filmName>The Upside (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9</rate>
+        <kindOfFilms>hài hước</kindOfFilms>
+        <kindOfFilms>truyền hình</kindOfFilms>
+        <directors>neil burger</directors>
+        <actors>Kevin Hart</actors>
+        <actors>Bryan Cranston</actors>
+        <actors>Nicole Kidman</actors>
+        <nation>Mỹ</nation>
+        <imageURL>imgs/products/tro-ly-het-y-2019.jpg</imageURL>
+        <description>Trợ Lý Hết Ý 2019Phim kể về mối quan hệ có nhiều tình huống dở khóc dở cười giữa hai nhân vật: Một người đàn ông giàu có nhưng bị liệt tứ chi và một thanh niên thất nghiệp đang cố gắng sống tích cực, tốt đẹp hơn.</description>
+    </Film>
+    <Film>
+        <filmID>PStorm(2019)2019</filmID>
+        <time>2019</time>
+        <duration>96</duration>
+        <filmName>P Storm (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9</rate>
+        <kindOfFilms>hành động</kindOfFilms>
+        <kindOfFilms>hình sự</kindOfFilms>
+        <directors>david lam</directors>
+        <actors>Trịnh Gia Dĩnh</actors>
+        <actors>Lâm Gia Đống</actors>
+        <actors>Cổ Thiên Lạc</actors>
+        <actors>Lâm Phong</actors>
+        <actors>Trương Chí Lâm</actors>
+        <actors>Châu Tú Na</actors>
+        <nation>Hồng Kông</nation>
+        <imageURL>imgs/products/doi-chong-tham-nhung-4-2019.jpg</imageURL>
+        <description>Đội Chống Tham Nhũng 4 2019Sau thành công của bộ ba "Z Storm", "S Storm" và "L Storm", phần tiếp theo "P Storm" kể về một gã cảnh sát đã nhận hối lộ 30 triệu đô la Hong Kong để giúp một kẻ giết người trong nhà tù sớm được trả tự do. Một cuộc điều tra đã được bắt đầu để tìm ra danh tính gã cảnh sát. Lục Chí Liêm (Cổ Thiên Lạc) vào tù giả làm phạm nhân để tiếp cận và tìm chứng cứ từ Tào Nguyên Nguyên (Lâm Phong) – thiếu gia ăn chơi khét tiếng đang bị giam giữ, còn đồng nghiệp Trình Đức Minh (Trịnh Gia Dĩnh) thì ở bên ngoài để tìm kiếm bằng chứng. Trong khoảng thời gian này, Lục Chí Liêm còn phải đối mặt với những kẻ từng bị anh vạch tội bỏ tù trước đây.</description>
+    </Film>
+    <Film>
+        <filmID>Alita:BattleAnge(2019)2019</filmID>
+        <time>2019</time>
+        <duration>122</duration>
+        <filmName>Alita: Battle Ange (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9.1</rate>
+        <kindOfFilms>hành động</kindOfFilms>
+        <kindOfFilms>viễn tưởng</kindOfFilms>
+        <kindOfFilms>phiêu lưu</kindOfFilms>
+        <kindOfFilms>kinh dị</kindOfFilms>
+        <directors>robert rodriguez</directors>
+        <actors>Rosa Salazar</actors>
+        <actors>Christoph Waltz</actors>
+        <actors>Jennifer Connelly</actors>
+        <nation>Mỹ</nation>
+        <imageURL>imgs/products/alita-thien-than-chien-binh-2019.jpg</imageURL>
+        <description>Alita: Thiên Thần Chiến Binh 2019Alita được ví như một thần chết đến từ địa ngục vì những khả năng vượt qua mọi giới hạn mà cô sở hữu. Cô được tìm thấy bởi Tiến sĩ Ido và không thể nhớ mình là ai hay từ đâu tới. Để có thể tìm ra sự thật, Atila phải dấn thân vào những cuộc chiến đấu nảy lửa.</description>
+    </Film>
+    <Film>
+        <filmID>YuuYuuHakusho(2018)2018</filmID>
+        <time>2018</time>
+        <duration>29</duration>
+        <filmName>Yuu Yuu Hakusho (2018)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>8.8</rate>
+        <kindOfFilms>hành động</kindOfFilms>
+        <kindOfFilms>hoạt hình</kindOfFilms>
+        <kindOfFilms>hài hước</kindOfFilms>
+        <kindOfFilms>phiêu lưu</kindOfFilms>
+        <actors>Noriyuki Abe</actors>
+        <actors>Yoshihiro Togashi</actors>
+        <nation>Nhật Bản</nation>
+        <imageURL>imgs/products/yuuyuuhakusho-two-shotsnoru-ka-soru-ka-2018.jpg</imageURL>
+        <description>Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka 2018Tập đặc biệt nói đến câu chuyện về cách Kurama và Hiei gặp nhau, cũng như chương áp chót của manga "All or nothing". trong đó cho thấy các nhân vật chính tái hợp để giải quyết về vấn đề con tin trong thế giới linh hồn</description>
+    </Film>
+    <Film>
+        <filmID>EscapePlan:TheExtractors(2019)2019</filmID>
+        <time>2019</time>
+        <duration>97</duration>
+        <filmName>Escape Plan: The Extractors (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9</rate>
+        <kindOfFilms>hành động</kindOfFilms>
+        <kindOfFilms>kinh dị</kindOfFilms>
+        <directors>john herzfeld</directors>
+        <actors>Sylvester Stallone</actors>
+        <actors>Dave Bautista</actors>
+        <actors>50 Cent</actors>
+        <nation>Mỹ</nation>
+        <imageURL>imgs/products/ke-hoach-dao-tau-3-giai-cuu-2019.jpg</imageURL>
+        <description>Kế Hoạch Đào Tẩu 3: Giải Cứu 2019Kế Hoạch Đào Tẩu 3 là một câu chuyện hoàn toàn mới. Lần này, chuyên gia an ninh Ray Breslin được thuê để giải cứu con gái của một nhà tài phiệt bị bắt cóc tại nhà tù bí ẩn mang tên Trạm Quỷ. Cộng sự của ông gồm có tay cung cấp vũ khí Trent và hacker Hush (50 Cent). Sen Lo - bạn trai của con tin cũng bất ngờ xuất hiện và đồng hành cùng nhóm trong cuộc giải cứu. Tuy nhiên, khi họ bước vào Trạm Quỷ cũng là lúc họ rơi vào chiếc bẫy chết người.</description>
+    </Film>
+    <Film>
+        <filmID>Remi,Nobody'sBoy(2018)2018</filmID>
+        <time>2018</time>
+        <duration>105</duration>
+        <filmName>Remi, Nobody's Boy (2018)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9</rate>
+        <kindOfFilms>hài hước</kindOfFilms>
+        <kindOfFilms>truyền hình</kindOfFilms>
+        <directors>antoine blossier</directors>
+        <actors>Daniel Auteuil</actors>
+        <actors>Maleaume Paquin</actors>
+        <actors>Virginie Ledoyen</actors>
+        <nation>Pháp</nation>
+        <imageURL>imgs/products/khong-gia-inh-2018.jpg</imageURL>
+        <description>Không Gia Ðình 2018Câu chuyện về cậu bé mồ côi Remi. Sau khi buộc phải rời xa người mẹ nuôi tốt bụng, Remi gia nhập gánh xiếc nhỏ của người nghệ sĩ bí ẩn Vitalis. Người thầy mới dạy cho cậu biết đọc, biết viết, biết hát ca, biết yêu thương cuộc sống và những người xung quanh.</description>
+    </Film>
+    <Film>
+        <filmID>After(2019)2019</filmID>
+        <time>2019</time>
+        <duration>105</duration>
+        <filmName>After (2019)</filmName>
+        <websiteName>https://phim33.com</websiteName>
+        <websiteURL>https://phim33.com</websiteURL>
+        <rate>9.9</rate>
+        <kindOfFilms>tâm lý - tình cảm</kindOfFilms>
+        <kindOfFilms>truyền hình</kindOfFilms>
+        <directors>jenny gage</directors>
+        <actors>Selma Blair</actors>
+        <actors>Jennifer Beals</actors>
+        <actors>Josephine Langford</actors>
+        <nation>Mỹ</nation>
+        <imageURL>imgs/products/tu-khi-co-anh-2019.jpg</imageURL>
+        <description>Từ Khi Có Anh 2019Dựa trên nguyên tác ăn khách của cây bút Anna Todd, After kể về Tessa, một nữ sinh năm nhất đại học gương mẫu, hiếu thuận với mẹ và chung thủy với mối tình thời trung học của mình. Trên con đường trải đầy hoa hồng tuyệt đẹp của mình, Tessa đã gặp gỡ anh chàng Hardin Scott, một nam sinh nổi loạn đầy bí ẩn và quyến rũ. Cuộc hành trình bước vào thế giới cạm bẫy của Tessa bắt đầu từ đó.</description>
+    </Film>
+</ns2:listFilm>

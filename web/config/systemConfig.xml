@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SystemConfig xmlns="http://www.SystemConfig.com">
+    <timeLoopHour>15</timeLoopHour>
+    <timeLoopMinute>02</timeLoopMinute>
+    <autoRemakeRecommandation>true</autoRemakeRecommandation>
+    <autoUpdateOldData>false</autoUpdateOldData>
+    <autoAddNewData>true</autoAddNewData>
+    <autoDeleteOutOfDateData>false</autoDeleteOutOfDateData>
+    <crawlOnDeploy>false</crawlOnDeploy>
+</SystemConfig>

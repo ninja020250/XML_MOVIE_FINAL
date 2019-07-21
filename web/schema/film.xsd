@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://www.film.com"
+           targetNamespace="http://www.film.com"
+           elementFormDefault="qualified">
+    
+    <xs:simpleType name="filmIDDeclare">
+        <xs:restriction base="xs:string">
+            <!--<xs:pattern value="^[0-9]+(:)[0-9]+$"/>-->
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="directorDeclare">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z.\-ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ ]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="actorDeclare">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z.\-ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ ]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="kindOfFilmDeclare">
+        <xs:restriction base="xs:string">
+         
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="URLDeclare">
+        <xs:restriction base="xs:string">
+            <!--<xs:pattern value="https://.+"/>-->
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:element name="Film" >
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="filmID" type="filmIDDeclare" />
+                <xs:element name="time" type="xs:int" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="duration" type="xs:int" minOccurs="0" maxOccurs="1"/>
+                <xs:element name="limitAge" type="xs:string" minOccurs="0" maxOccurs="1"/>
+                <xs:element name="filmName" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="engName" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="websiteName" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="websiteURL" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="rate" type="xs:float" minOccurs="1" maxOccurs="1" />
+                <xs:element name="kindOfFilms" type="kindOfFilmDeclare" maxOccurs="unbounded" minOccurs="1"/>
+                <xs:element name="directors" type="directorDeclare"  minOccurs="1" maxOccurs = "unbounded" />
+                <xs:element name="actors" type="actorDeclare"  minOccurs="1" maxOccurs = "unbounded" />
+                <xs:element name="nation" type="xs:string" minOccurs="1" maxOccurs="1" />
+                <xs:element name="imageURL" type="xs:string" minOccurs="1" maxOccurs="1" />
+                <xs:element name="description" type="xs:string" minOccurs="0" maxOccurs="1" />
+                <xs:element name="filmURL" type="URLDeclare" minOccurs="1" maxOccurs="1" />
+                <xs:element name="numberOfView" type="xs:int" minOccurs="1" maxOccurs="1" />
+                <xs:element name="searchContent" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

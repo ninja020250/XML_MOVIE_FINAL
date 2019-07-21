@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CrawlerConfig host="phim24h" webURL="https://24hphim.com"
+               XpathLinkEachItem="//*[@class='list-film row']/div[contains(@class,'item')]/div/a[@class='poster']" 
+               xpathNameFilm="//*[contains(@class,'info-film')]//h2/text()"
+               xPathMainCategory="//*[@id='menu']//div/ul/li[3]/a/@href"
+               xpathNameFilmEnglish="//*[contains(@class,'info-film')]//div[@class='name2']/dfn/text()" 
+               xpathPagination="//*[@class='page_nav']/span"
+               xpathDescription="//*[contains(@class,'block-body')]//p" 
+               xpathGroupInfo="//dl/dt" xpathRate="//*[contains(@itemprop,'average')]" 
+               xpathView="//*[@class='extra-info']/div[@class='views']/span/text()" 
+               xpathYear="../dd"
+               xpathDuration="../dd" 
+               xpathNation="../dd" 
+               xpathKind="../dd"
+               xpathDirector="../dd"
+               xpathActor="../dd" 
+               xpathImgURL="//*[contains(@class,'info-film')]//div[@class='poster']/img/@src" 
+               xmlns="http://www.CrawlerConfig.com">
+    <actorKeyword>diễn viên</actorKeyword>
+    <directorKeyword>đạo diễn</directorKeyword>
+    <kindKeyword>thể loại</kindKeyword>
+    <nationKeyword>quốc gia</nationKeyword>
+    <durationKeyword>thời lượng</durationKeyword>
+    <yearKeyword>năm phát hành</yearKeyword>
+</CrawlerConfig>

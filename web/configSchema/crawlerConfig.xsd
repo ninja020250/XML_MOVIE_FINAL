@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://www.CrawlerConfig.com"
+           targetNamespace="http://www.CrawlerConfig.com"
+           elementFormDefault="qualified">
+ 
+    <xs:element name="CrawlerConfig" >
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="actorKeyword" type="xs:string" />
+                <xs:element name="directorKeyword" type="xs:string" />
+                <xs:element name="kindKeyword" type="xs:string" />
+                <xs:element name="nationKeyword" type="xs:string" />
+                <xs:element name="durationKeyword" type="xs:string" />
+                <xs:element name="yearKeyword" type="xs:string" />
+                <xs:element name="viewKeyword" type="xs:string" />
+                <xs:element name="rateKeyword" type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="host" type="xs:string" use="required"/>
+            <xs:attribute name="webURL" type="xs:string" use="required"/>
+            <xs:attribute name="XpathLinkEachItem" type="xs:string" use="required"/>
+            <xs:attribute name="xpathNameFilm" type="xs:string" use="required"/>
+            <xs:attribute name="xPathMainCategory" type="xs:string" use="required"/>
+            <xs:attribute name="xpathNameFilmEnglish" type="xs:string" use="required"/>
+            <xs:attribute name="xpathPagination" type="xs:string" use="required"/>
+            <xs:attribute name="xpathDescription" type="xs:string" />
+            <xs:attribute name="xpathGroupInfo" type="xs:string" />
+            <xs:attribute name="xpathRate" type="xs:string" />
+            <xs:attribute name="xpathView" type="xs:string"/>
+            <xs:attribute name="xpathYear" type="xs:string" />
+            <xs:attribute name="xpathDuration" type="xs:string"/>
+            <xs:attribute name="xpathNation" type="xs:string" />
+            <xs:attribute name="xpathKind" type="xs:string" />
+            <xs:attribute name="xpathDirector" type="xs:string" />
+            <xs:attribute name="xpathActor" type="xs:string" />
+            <xs:attribute name="xpathImgURL" type="xs:string" />
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:listQuiz
+    xmlns="http://www.quiz.com"
+    xmlns:ns2="http://www.answer.com"
+    xmlns:ns3="http://www.quizs.com">
+    <Quiz>
+        <question>Bạn có thích xem phim hành động hay không?</question>
+        <ns2:Answer>
+            <ns2:content>có chớ</ns2:content>
+            <ns2:keyword>hành động,sát thủ</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>thích phim nhẹ nhàng hơn</ns2:content>
+            <ns2:keyword>tình cảm</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>hành động mà ảo ảo tý</ns2:content>
+            <ns2:keyword>viễn tưởng</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>có bắn súng càng tốt</ns2:content>
+            <ns2:keyword>súng</ns2:keyword>
+        </ns2:Answer>
+    </Quiz>
+    <Quiz>
+        <question>trong phim bạn thích có yếu tố tình cảm không</question>
+        <ns2:Answer>
+            <ns2:content>có chớ</ns2:content>
+            <ns2:keyword>lãng mạn</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>tình cảm của động vật</ns2:content>
+            <ns2:keyword>thú cưng,sói</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>tình cảm có nhạc hay</ns2:content>
+            <ns2:keyword>tình cảm, âm nhạc</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>thích film hoạt hình hơn</ns2:content>
+            <ns2:keyword>hoạt hình</ns2:keyword>
+        </ns2:Answer>
+    </Quiz>
+    <Quiz>
+        <question>bạn thường hay suy luận không</question>
+        <ns2:Answer>
+            <ns2:content>có chớ</ns2:content>
+            <ns2:keyword>hình sự</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>suy luận để bắt tội phạm nha</ns2:content>
+            <ns2:keyword>hình sự,bắt cóc</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>không, mình ít dùng não lắm</ns2:content>
+            <ns2:keyword>hoạt hình</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>suy luận mấy cái mà mình k biết mới vui</ns2:content>
+            <ns2:keyword>bí ẩn</ns2:keyword>
+        </ns2:Answer>
+    </Quiz>
+    <Quiz>
+        <question>bạn thích âm nhạc không</question>
+        <ns2:Answer>
+            <ns2:content>có chớ</ns2:content>
+            <ns2:keyword>âm nhạc</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>nhạc mạnh tý nha</ns2:content>
+            <ns2:keyword>rock</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>đánh nhau thôi, đừng lồng nhạc vô</ns2:content>
+            <ns2:keyword>võ thuật</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>nhạc nhẹ nhẹ được rồi</ns2:content>
+            <ns2:keyword>âm nhạc, lãng mạn</ns2:keyword>
+        </ns2:Answer>
+    </Quiz>
+    <Quiz>
+        <question>tin vô thần linh, các vị thần không bạn</question>
+        <ns2:Answer>
+            <ns2:content>có chớ</ns2:content>
+            <ns2:keyword>phiêu lưu,hành động,thần</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>tin vô ma quỷ à</ns2:content>
+            <ns2:keyword>quỷ,kinh dị,nghĩa địa</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>thích tử thần hơn</ns2:content>
+            <ns2:keyword>tử thần, kinh dị</ns2:keyword>
+        </ns2:Answer>
+        <ns2:Answer>
+            <ns2:content>không nha, mấy phim đó ghê lắm</ns2:content>
+            <ns2:keyword>gia đình2</ns2:keyword>
+        </ns2:Answer>
+    </Quiz>
+</ns3:listQuiz>

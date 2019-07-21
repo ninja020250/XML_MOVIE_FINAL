@@ -1,0 +1,21 @@
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.website.com"
+           xmlns="http://www.website.com"
+           elementFormDefault="qualified">
+    <!-- Declare URL -->
+    <xs:simpleType name="URLDeclare">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="https://.+"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <!--End Declare URL -->
+    <xs:element name="Website">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="websiteName" type="xs:string" minOccurs="0" maxOccurs="1"/>
+                <xs:element name="websiteURL" type="URLDeclare" minOccurs="0" maxOccurs="1"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.brand.com" uri="www.brand.com"/>
+    <system systemId="http://www.film.com" uri="www.mtv.com/news/movies/index"/>
+    <system systemId="http://www.kinds.com" uri="www.kinds.com"/>
+    <system systemId="http://www.category.com" uri="www.category.com"/>
+    <system systemId="http://www.categories.com" uri="www.categories.com"/>
+    <system systemId="http://www.quizs.com" uri="www.quizs.com"/>
+    <system systemId="http://www.answer.com" uri="www.answer.com"/>
+    <system systemId="http://www.SystemConfig.com" uri="SystemConfig.com/index"/>
+</catalog>

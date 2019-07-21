@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.filmEvalutes.com"
+           xmlns="http://www.filmEvalutes.com"
+           xmlns:target = "http://www.filmEvalute.com"
+           xmlns:target2 = "http://www.film.com"
+           elementFormDefault="qualified">
+    <xs:import namespace="http://www.film.com" schemaLocation="film.xsd" />
+    <xs:import namespace="http://www.filmEvalute.com"  schemaLocation="filmEvalute.xsd" />
+    
+    <xs:element name="ListFilmEvalute">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="target2:Film" minOccurs="1" maxOccurs="1" />
+                <xs:element ref="target:FilmEvalute"  maxOccurs = "unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

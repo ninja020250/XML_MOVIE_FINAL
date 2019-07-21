@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://www.filmEvalute.com"
+           xmlns:target2 = "http://www.website.com"
+           targetNamespace="http://www.filmEvalute.com"
+           elementFormDefault="qualified">
+
+    <xs:import namespace="http://www.website.com" schemaLocation="website.xsd" />
+    <xs:simpleType name="URLDeclare">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="https://.+"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:element name="FilmEvalute">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="rated" type="xs:float" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="description" type="xs:string" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="target2:Website" minOccurs="1" maxOccurs="1" />
+                <xs:element name="url" type="URLDeclare" minOccurs="1" maxOccurs="1" />
+                <xs:element name="numberOfView" type="xs:int" minOccurs="1" maxOccurs="1" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

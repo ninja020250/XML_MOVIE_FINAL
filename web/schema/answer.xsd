@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://www.answer.com"
+           targetNamespace="http://www.answer.com"
+           elementFormDefault="qualified">
+    
+ 
+    <xs:element name="Answer" >
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="content" type="xs:string" />
+                <xs:element name="keyword" type="xs:string"  />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>
